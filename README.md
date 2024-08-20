@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Debarun Lahiri
 
-<!--
-**debarunlahiri/debarunlahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Tinder Auto Liker**
+- 🌱 I’m currently learning **Machine Learning and AI**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=debarunlahiri&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Debarun Lahiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=debarunlahiri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debarunlahiri&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=debarunlahiri&theme=onedark)](https://github.com/debarunlahiri/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=debarunlahiri&theme=react-dark)
